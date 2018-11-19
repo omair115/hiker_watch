@@ -1,0 +1,3 @@
+rootProject.name = 'hiker_watch'
+
+include ':app'
